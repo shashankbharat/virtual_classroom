@@ -18,7 +18,7 @@ This project is concerned with successfully administering an e-class session fro
 
 D-Link AirPlus G DWL-G510 PCI Adapter is a wireless PCI adapter used to deliver data transfer in the 2.4GHz frequency. This device is to be installed in desktops. Laptops on the other hand, come with a pre-configured wireless adapter.
 
-![D-Link PCI Adapter](images/1_PCI_Adapter.JPG "D-Link AirPlus G DWL-G510 PCI Adapter")
+![D-Link PCI Adapter](images/1_PCI_Adapter.jpg "D-Link AirPlus G DWL-G510 PCI Adapter")
 
 ### Network Setup
 
@@ -99,7 +99,7 @@ Configuring the devices
 
 Java 2 Platform Enterprise Edition (J2EE) three-tiered applications are distributed over three locations: client machines, the J2EE server machine, and the database or legacy machines at the back end. Three-tiered applications that run in this way extend the standard two-tiered client and server model by placing a multithreaded application server between the client application and back-end storage.
 
-![J2EE 3-tier architecture](images/2_J2EE.JPG "J2EE 3-tier architecture")
+![J2EE 3-tier architecture](images/2_J2EE.jpg "J2EE 3-tier architecture")
 
 ### JFreeChart
 
@@ -109,11 +109,11 @@ JFreeChart is a free chart library for the Java platform. It is designed for use
 
 *Pie Chart*
 
-![Pie](images/3_Pie_Chart.JPG "Pie chart")
+![Pie](images/3_Pie_Chart.jpg "Pie chart")
 
 *Bar Chart*
 
-![Bar](images/4_Bar_Chart.JPG "Bar chart")
+![Bar](images/4_Bar_Chart.jpg "Bar chart")
 
 ### Comet
 
@@ -126,7 +126,7 @@ Upon receiving the server response, the browser initiates a new long polling req
 
 ### System Architecture
 
-![System Architecture](images/4_System_Architecture.JPG "System Architecture")
+![System Architecture](images/4_System_Architecture.jpg "System Architecture")
 
 ### Relational Database Model
 
